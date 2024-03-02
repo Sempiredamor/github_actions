@@ -21,4 +21,4 @@ def test_coucou():
     # Fonction test si la résultat renvoie 'hello'
     output = 'hello'
     assert output == 'hello'
-    
+# This is a new line that ends the file.    
